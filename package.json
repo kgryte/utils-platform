@@ -1,6 +1,6 @@
 {
   "name": "utils-platform",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Returns the platform on which the current process is running.",
   "author": {
     "name": "Athan Reines",
